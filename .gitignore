@@ -1,0 +1,20 @@
+# Ignore executables
+*.exe
+
+# Ignore object and compiled files
+*.o
+*.obj
+*.out
+
+# VS Code settings
+.vscode/
+
+# Ignore temporary or backup files
+*~
+*.bak
+*.log
+*.stackdump
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
