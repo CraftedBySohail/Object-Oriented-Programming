@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore executables
 *.exe
 
@@ -18,3 +19,37 @@
 # macOS and Windows system files
 .DS_Store
 Thumbs.db
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> e3e45974b0c658d07aab4a6e0ac80f440ac60daa
